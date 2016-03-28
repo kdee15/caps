@@ -1,0 +1,13 @@
+name: caps
+type: theme
+description: Capuchinfranciscan website theme 
+version: 1.0
+core: 8.x
+
+stylesheets-remove:
+  - core/assets/vendor/normalize-css/normalize.css
+  - core/modules/system/css/system.module.css
+  - core/modules/system/css/system.theme.css
+  - core/modules/views/css/views.module.css
+  
+  
