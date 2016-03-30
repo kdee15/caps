@@ -1,0 +1,10 @@
+global-css:
+  css:
+    theme:
+      assets/css/stylesheet.css: {}
+
+global-js:
+  js:
+    assets/js/app.js: {}
+ dependencies:
+   - core/jquery

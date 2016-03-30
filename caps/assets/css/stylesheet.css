@@ -1199,7 +1199,7 @@ html, body, #mast, .section-home, .container {
   height: 100%; }
 
 body {
-  background: url("../images/front/bg-front.png") no-repeat center center fixed;
+  background: #000;
   background-size: cover; }
 
 h4, h6, ul, li, p {
